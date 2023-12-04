@@ -1,4 +1,4 @@
-# Python-Projects# Bank Management System
+# Bank Management System
 
 ## Overview
 This is a simple Bank Management System implemented in Python. The system allows for the management of customer registrations, loan approvals, and various banking functionalities.
